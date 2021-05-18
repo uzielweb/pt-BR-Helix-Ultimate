@@ -15,5 +15,8 @@
 		<files folder="site/pt-BR" target="language/pt-BR">
 			<filename>pt-BR.tpl_shaper_helixultimate.ini</filename>
 		</files>
+		<files folder="admin/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_system_helixultimate.ini</filename>
+		</files>
 	</fileset>
 </extension>
