@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="1.0" method="upgrade">
-	<name>Helix Ultimate - Joom Shaperpt-BR</name>
-	<version>1.1.1</version>
-	<creationDate>25/10/2018</creationDate>
+	<name>Helix Ultimate Português do Brasil</name>
+	<version>2.0.5</version>
+	<creationDate>2022/02/12</creationDate>
 	<author>Uziel Almeida Oliveira via Ponto Mega</author>
 	<authorEmail>contato@pontomega.com.br</authorEmail>
 	<authorUrl>https://www.pontomega.com.br</authorUrl>
-	<copyright>2019</copyright>
+	<copyright>2022</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<packager></packager>
 	<packagerurl></packagerurl>
-	<description><![CDATA[Tradução para português do Brasil do Modelo Helix Ultimate da JomShaper - Versão 1.1.1]]></description>
+	<description><![CDATA[Tradução para português do Brasil do Modelo Helix Ultimate da JomShaper - Versão 2.0.5]]></description>
 	<fileset>
 		<files folder="site/pt-BR" target="language/pt-BR">
 			<filename>pt-BR.tpl_shaper_helixultimate.ini</filename>
